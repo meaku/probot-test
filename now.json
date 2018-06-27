@@ -1,0 +1,8 @@
+{
+    "name": "probot-test",
+    "type": "static",
+    "alias": "now-test.peerigon.io",
+    "env": {
+      "NODE_ENV": "production"
+    }
+}
